@@ -181,7 +181,7 @@ section{
     align-self: center;
     text-align: center;
 }
-.section_text p{
+.section_text p {
     font-weight: 600;
 }
 
@@ -203,9 +203,9 @@ section{
     display: flex;
     justify-content: center; 
     /* align-items: ; */
+    margin-top: 1rem;
     gap: 1rem;
-    height: 40px;
-    width: 40px;
+
 }
 
 /* ICONS */
@@ -214,8 +214,6 @@ section{
 .icons{
     cursor: pointer;
     height: 2rem;
-    height: 40px;
-    width: 40px;
 }
 
 /* Buttons */
