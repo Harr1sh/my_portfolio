@@ -102,7 +102,7 @@ a:hover{
     position: absolute;
     top: 100%;
     right: 0;
-    background-color: white;
+    background-color: azure;
     width: fit-content;
     max-height: 0;
     overflow: hidden;
@@ -188,6 +188,7 @@ section{
 
 .section_text_p1{
     text-align: center;
+    font-size: 1.5rem;
 }
 .section_text_p2{
     font-size: 1.75rem;
