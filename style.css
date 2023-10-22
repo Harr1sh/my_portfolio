@@ -61,11 +61,11 @@ a:hover{
 
 .logo{
     font-size: 2rem;
-    /* font-weight: 300; */
+    font-weight: 450;
 }
 
 .logo:hover{
-    cursor: default;
+    cursor: pointer;
 }
 
 /* Hamburger Menu */
