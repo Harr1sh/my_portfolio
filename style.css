@@ -201,17 +201,16 @@ section{
 
 #socials-container {
     display: flex;
-    justify-content: center; 
-    /* align-items: ; */
+    justify-content: center;
     margin-top: 1rem;
     gap: 1rem;
 
 }
 
 /* ICONS */
+/*  */
 
-
-.icons{
+.icon{
     cursor: pointer;
     height: 2rem;
 }
